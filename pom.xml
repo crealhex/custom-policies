@@ -6,7 +6,16 @@
 
     <groupId>org.politics</groupId>
     <artifactId>politics</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.3-SNAPSHOT</version>
+
+    <developers>
+        <developer>
+            <id>crealhex</id>
+            <name>Luis Enco</name>
+            <email>encoluis@hotmail.com</email>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -15,6 +24,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
 </project>
